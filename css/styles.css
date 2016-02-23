@@ -1,3 +1,13 @@
-#result {
+#response {
   display: none;
+}
+
+#error {
+  display: none;
+  color: red;
+}
+
+.not {
+  font-weight:bold;
+  color: red;
 }
